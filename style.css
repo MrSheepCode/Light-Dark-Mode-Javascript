@@ -1,0 +1,13 @@
+body{
+    transition: 1s;
+}
+
+/* Button Styling */
+.btnlisten{
+    background-color: aquamarine;
+    width: 10rem;
+    height: 3rem;
+    margin-top: 10%;
+    margin-left: 50%;
+}
+
